@@ -135,7 +135,7 @@ A simple yet effective linear classification algorithm used as a baseline model.
 
 ---
 
-### 2. Random Forest Classifier
+### 2. Random Forest Classifiers
 
 An ensemble learning method that combines multiple decision trees.
 
