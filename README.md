@@ -256,8 +256,7 @@ Water_Portability_Model/
 │
 ├── Water potability model.ipynb
 ├── water_potability.csv
-├── water_quality_model_results.csv
-├── feature_importance_results.csv
+├── Water potability model.py
 └── README.md
 ```
 
